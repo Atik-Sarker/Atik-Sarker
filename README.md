@@ -1,16 +1,21 @@
-### Hi there 👋
+## Md Atik Sarker 
 
-<!--
-**Atik-Sarker/Atik-Sarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Full Stack Web Developer <br/>
 
-Here are some ideas to get you started:
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/atik-sarker/)   [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/AtikSarker69)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Md Atik Sarker and I'm a full stack web developer, With my 4+ years of freelancing career, I learned a lot of modern webs developing tools and frameworks like Laravel, CakePHP,JavasSript, Vuejs, webpack, RESTfull API, sass, WordPress, Java etc.
+
+Typically I love to work with Laravel and Vuejs.
+
+
+### My stacks
+
+```js
+{
+  "frontend" : ["Nextjs", "Vue", "JavasSript", ...more],
+  "backend"  : ["Nestjs", "Laravel", ...more],
+  "ui"       : ["Material-ui", "Tailwind.css", ...more]
+}
+```
+
