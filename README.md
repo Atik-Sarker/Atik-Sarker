@@ -1,4 +1,4 @@
-## Md Atik Sarker 
+## Md Atiqur Rahman
 
 > Full Stack Web Developer <br/>
 
