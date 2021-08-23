@@ -13,9 +13,9 @@ Typically I love to work with Laravel and Vuejs.
 
 ```js
 {
-  "frontend" : ["Nextjs", "Vue", "JavasSript", ...more],
-  "backend"  : ["Nestjs", "Laravel", ...more],
-  "ui"       : ["Material-ui", "Tailwind.css", ...more]
+  "frontend" : ["Nuxt.js", "Vue", "JavasSript", ...more],
+  "backend"  : ["PHP", "Laravel", ...more],
+  "ui"       : ["Bootstrap", "Tailwind CSS", "MDB-Material Design", ...more]
 }
 ```
 
